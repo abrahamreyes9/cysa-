@@ -9,3 +9,4 @@
   * [Open-source intelligence](threat-and-vulnerability-management/explain-the-importance-of-threat-data-and-intelligence/open-source-intelligence.md)
   * [Proprietary / closed-source intelligence](threat-and-vulnerability-management/explain-the-importance-of-threat-data-and-intelligence/proprietary-closed-source-intelligence.md)
   * [Timeliness, Relevancy, Accuracy](threat-and-vulnerability-management/explain-the-importance-of-threat-data-and-intelligence/timeliness-relevancy-accuracy.md)
+  * [Confidence Levels](threat-and-vulnerability-management/explain-the-importance-of-threat-data-and-intelligence/confidence-levels.md)
