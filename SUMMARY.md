@@ -5,6 +5,7 @@
 
 ## Threat and Vulnerability Management
 
+* [1.3 Given a scenario, perform vulnerability management activities](threat-and-vulnerability-management/1.3-given-a-scenario-perform-vulnerability-management-activities.md)
 * [1.1 Explain the importance of threat data and intelligence](threat-and-vulnerability-management/explain-the-importance-of-threat-data-and-intelligence/README.md)
   * [Page 1](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/page-1.md)
   * [Intelligence Sources](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/intelligence-sources.md)
