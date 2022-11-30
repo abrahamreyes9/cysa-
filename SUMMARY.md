@@ -6,6 +6,7 @@
 ## Threat and Vulnerability Management
 
 * [1.1 Explain the importance of threat data and intelligence](threat-and-vulnerability-management/explain-the-importance-of-threat-data-and-intelligence/README.md)
+  * [Page 1](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/page-1.md)
   * [Intelligence Sources](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/intelligence-sources.md)
   * [Confidence Levels](threat-and-vulnerability-management/explain-the-importance-of-threat-data-and-intelligence/confidence-levels.md)
   * [Indicator Management](threat-and-vulnerability-management/explain-the-importance-of-threat-data-and-intelligence/indicator-management/README.md)
@@ -18,3 +19,4 @@
   * [Open-source intelligence](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/open-source-intelligence.md)
   * [Proprietary / closed-source intelligence](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/proprietary-closed-source-intelligence.md)
   * [Timeliness, Relevancy, Accuracy](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/timeliness-relevancy-accuracy.md)
+* [1.2 Given a scenario, utilise threat intelligence to support organisational security](threat-and-vulnerability-management/1.2-given-a-scenario-utilise-threat-intelligence-to-support-organisational-security.md)
