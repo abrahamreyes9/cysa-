@@ -5,6 +5,7 @@
 
 ## Threat and Vulnerability Management
 
+* [1.5 Explain the threats and vulnerabilities associated with specialised technology](threat-and-vulnerability-management/1.5-explain-the-threats-and-vulnerabilities-associated-with-specialised-technology.md)
 * [1.1 Explain the importance of threat data and intelligence](threat-and-vulnerability-management/explain-the-importance-of-threat-data-and-intelligence/README.md)
   * [Page 1](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/page-1.md)
   * [Intelligence Sources](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/intelligence-sources.md)
