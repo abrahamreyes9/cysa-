@@ -5,7 +5,6 @@
 
 ## Threat and Vulnerability Management
 
-* [1.3 Given a scenario, perform vulnerability management activities](threat-and-vulnerability-management/1.3-given-a-scenario-perform-vulnerability-management-activities.md)
 * [1.1 Explain the importance of threat data and intelligence](threat-and-vulnerability-management/explain-the-importance-of-threat-data-and-intelligence/README.md)
   * [Page 1](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/page-1.md)
   * [Intelligence Sources](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/intelligence-sources.md)
@@ -21,3 +20,5 @@
   * [Proprietary / closed-source intelligence](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/proprietary-closed-source-intelligence.md)
   * [Timeliness, Relevancy, Accuracy](threat-and-vulnerability-management/1.1-explain-the-importance-of-threat-data-and-intelligence/timeliness-relevancy-accuracy.md)
 * [1.2 Given a scenario, utilise threat intelligence to support organisational security](threat-and-vulnerability-management/1.2-given-a-scenario-utilise-threat-intelligence-to-support-organisational-security.md)
+* [1.3 Given a scenario, perform vulnerability management activities](threat-and-vulnerability-management/1.3-given-a-scenario-perform-vulnerability-management-activities.md)
+* [1.4 Given a scenario, analyse the output from common vulnerability assessment tools](threat-and-vulnerability-management/1.4-given-a-scenario-analyse-the-output-from-common-vulnerability-assessment-tools.md)
