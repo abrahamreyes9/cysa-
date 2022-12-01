@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Exam Objectives](exam-objectives.md)
+* [Exam Objectives](exam-objectives/README.md)
+  * [Quiz](exam-objectives/quiz/README.md)
+    * [Threat and Vulnerability Management Competency](exam-objectives/quiz/threat-and-vulnerability-management-competency/README.md)
+      * [Questions](exam-objectives/quiz/threat-and-vulnerability-management-competency/questions.md)
 
 ## Threat and Vulnerability Management
 
